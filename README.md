@@ -1,5 +1,4 @@
 # Robot-Wars
-This simple task was part of a job interview process.
 
 
 Write the following in c# showing off your TDD and coding best practices.
